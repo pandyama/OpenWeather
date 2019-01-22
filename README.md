@@ -1,5 +1,3 @@
-# plastic_mobile_v2
-
 A new Flutter application.
 
 ## Getting Started
